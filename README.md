@@ -4,7 +4,9 @@ A Virtual Teaching Assistant that automatically answers student queries based on
 
 🔗 **Live API**: [https://tds-project1-render.onrender.com/api/](https://tds-project1-render.onrender.com/api/)  
 📁 **GitHub Repo**: [github.com/Anish071105/TDS-project1-render](https://github.com/Anish071105/TDS-project1-render)
-Note: The link is working perfectly fine. Wait for some time.Acc to my testing it sometimes doesnt give reply to the very first query but gives to subsequent ones. If it still doesnt start tell me I will restart the server again.
+
+
+Note: The link is working perfectly fine. Wait for some time.If it still doesnt start tell me I will restart the server again.
 
 ---
 
@@ -48,7 +50,7 @@ As part of IIT Madras' Online Degree in Data Science, students often ask recurri
 1. **Image descriptions boost accuracy** by providing extra context to the model.
 2. Using `.npz` files avoids the need for a separate vector database and saves space.
 3. Learned how to **scrape**, **structure**, and **process** large-scale discussion data using automation tools.
-
+4. Used Uptime to continuously monitor the health of website using health endpoint which helps in ensuring that render website works fine.
 ---
 
 ## 🧠 Future Recommendations
