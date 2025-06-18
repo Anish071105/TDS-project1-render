@@ -1,0 +1,554 @@
+[
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590136,
+    "post_number": 1,
+    "author": "23f3002530",
+    "created_at": "2025-02-03T06:54:27.787Z",
+    "updated_at": "2025-02-03T08:15:54.289Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "@carlton @s.anand\ndear sir\ni have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment had not been submitted. pls do something please do it fast.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590232,
+    "post_number": 4,
+    "author": "Saransh_Saini",
+    "created_at": "2025-02-03T10:42:34.471Z",
+    "updated_at": "2025-02-03T10:42:34.471Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/4",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "\n\n\n\nGA2 - Deployment Tools - Discussion Thread [TDS Jan 2025] Tools in Data Science\n\n\n    We have removed that button, cause it was causing confusion among the students. \nIf you have saved your answers on the TDS portal then you need not worry, you will be marked. The button was just there to ensure you saw the assignment on the TDS portal. \nRegards, \nTDS TA\n  \n\nRead this",
+    "images": [
+      "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/48/123495_2.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/48/123495_2.png",
+        "description": "The image is a blurry photograph of a person sitting outdoors; it does not contain any interface elements, questions, scoreboards, diagrams, graphs, or submission portals relevant to academic coursework."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590930,
+    "post_number": 5,
+    "author": "Rishabh2",
+    "created_at": "2025-02-05T17:17:25.350Z",
+    "updated_at": "2025-02-05T17:17:42.342Z",
+    "reply_to_post_number": 4,
+    "is_reply": true,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/5",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "I saved that too but right now scores of GA2 isn\u2019t visible for me. And in score section it\u2019s showing assignment not submitted. @Saransh_Saini",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591015,
+    "post_number": 6,
+    "author": "carlton",
+    "created_at": "2025-02-06T02:24:28.000Z",
+    "updated_at": "2025-02-07T03:21:14.642Z",
+    "reply_to_post_number": 5,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/6",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time.\nScores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.\nThe scores will only be visible in the dashboard. Just ignore anything inside seek portal. The dashboard is where all your subject score cards exists.\nAs stated in multiple places on discourse as well as in live sessions, The final score is always your last submission. If your dashboard score does not match your final submission score on the assignment page, only then contact us regarding your marks.\nKind regards",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591407,
+    "post_number": 7,
+    "author": "23f3002530",
+    "created_at": "2025-02-03T05:35:17.285Z",
+    "updated_at": "2025-02-07T03:23:18.117Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/7",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "@Jivraj @iamprasna  i have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment  had not been submitted. pls do something please do it fast.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591364,
+    "post_number": 10,
+    "author": "shriaviator",
+    "created_at": "2025-02-07T02:08:32.080Z",
+    "updated_at": "2025-02-07T03:23:18.428Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/10",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "@23f3002530\nTopic moved to the appropriate category in order to get faster responses.\nPlease make it easier for others to help you, by ensuring that topics are created in the correct categories.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591405,
+    "post_number": 11,
+    "author": "carlton",
+    "created_at": "2025-02-07T03:17:32.740Z",
+    "updated_at": "2025-02-07T03:23:18.430Z",
+    "reply_to_post_number": 10,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/11",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "@23f3002530\nPlease refer to this post.\n\n\n\n\nTds: assignment is not submitting Tools in Data Science\n\n\n    Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time. \nScores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. \nThe scores will only be visible in the dashboard. Just ignore anything inside se\u2026\n  \n\nKind regards",
+    "images": [
+      "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png",
+        "description": "The image is a headshot of a person with dark hair and glasses, wearing a purple collared shirt against a light yellow background.  No interface elements, questions, scoreboards, diagrams, graphs, or submission portals are visible."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591410,
+    "post_number": 12,
+    "author": "bhavanagv",
+    "created_at": "2025-02-06T20:28:05.908Z",
+    "updated_at": "2025-02-07T03:23:46.570Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/12",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Screenshot (313)1920\u00d71080 243 KB",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/5/d51f4ef2faa1d935371f7b95e9d49a85435b481d_2_690x388.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/5/d51f4ef2faa1d935371f7b95e9d49a85435b481d_2_690x388.png",
+        "description": "The image shows a browser window displaying a graded assignment interface with a score of 0, a \"Recent saves\" section showing three previous submissions with a score of 8 each, and a prompt to join a Discourse discussion for questions."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591335,
+    "post_number": 13,
+    "author": "carlton",
+    "created_at": "2025-02-07T00:46:09.257Z",
+    "updated_at": "2025-02-07T03:23:46.697Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/13",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Dear Bhavanagv,\nThe scores have not been pushed to the dashboard yet. Ignore seek portal. Seek portal will not have your submission or your scores because it is evaluated externally from the seek portal.\nKind regards",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591414,
+    "post_number": 14,
+    "author": "22f3000585",
+    "created_at": "2025-02-03T12:50:07.690Z",
+    "updated_at": "2025-02-07T03:24:12.598Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/14",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "I had submitted the assignment still it\u2019s shwoing that my score is 0 and that i have not submitted the assignment.\nCan you please look into it as i had saved my answers as well timely.\nimage547\u00d7258 12.3 KB",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/1/51fd5a5ad1f47e528360f19eb4fcaaccc3cee612.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/1/51fd5a5ad1f47e528360f19eb4fcaaccc3cee612.png",
+        "description": "The image shows a dark-colored interface element labeled \"Recent saves,\" displaying three entries, each with a \"Reload\" button, a timestamp from February 2nd, 2025, and a score of 4."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590388,
+    "post_number": 15,
+    "author": "Pururaj",
+    "created_at": "2025-02-03T18:47:17.785Z",
+    "updated_at": "2025-02-07T03:24:12.733Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/15",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "same thing with my assignment even though i submitted it",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590403,
+    "post_number": 16,
+    "author": "Jivraj",
+    "created_at": "2025-02-03T22:46:28.017Z",
+    "updated_at": "2025-02-07T03:24:12.737Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/16",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Scores will soon be pushed to seek portal, till then it will show 0.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590647,
+    "post_number": 17,
+    "author": "HRISHIKESH",
+    "created_at": "2025-02-04T15:23:50.195Z",
+    "updated_at": "2025-02-07T03:24:12.741Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/17",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Same for me\u2026deadline is over and assignment not submitted\u2026",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590738,
+    "post_number": 18,
+    "author": "23f2003413",
+    "created_at": "2025-02-05T06:58:39.938Z",
+    "updated_at": "2025-02-07T03:24:12.748Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/18",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "same issue here as well",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 590981,
+    "post_number": 19,
+    "author": "SameerNaik",
+    "created_at": "2025-02-05T18:37:49.504Z",
+    "updated_at": "2025-02-07T03:24:12.751Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/19",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Yes, same observation for my assignment as well.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591014,
+    "post_number": 20,
+    "author": "carlton",
+    "created_at": "2025-02-06T02:23:54.000Z",
+    "updated_at": "2025-02-07T03:24:12.755Z",
+    "reply_to_post_number": 19,
+    "is_reply": true,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/20",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.\nThe scores will only be visible in the dashboard. Just ignore anything inside the seek portal.\nAs stated in multiple places in discourse as well as in live sessions, The final score is always your last submission.\nKind regards",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591798,
+    "post_number": 21,
+    "author": "23f2000232",
+    "created_at": "2025-02-07T14:50:45.736Z",
+    "updated_at": "2025-02-07T15:06:56.194Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/21",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "There are some errors in grading for GA2 and  GA3 for TDS, even after submitting the assignments score 0 was given and the seek portal displayed assignment was not submitted given that the login was from my own account and was submitted before the time and still got a score of 0.\nScreenshot 2025-02-07 2013161859\u00d7960 88.4 KB\nand the same happened for the 3rd assignment",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/9/29b6332cf814991a2cdae74355e67478bcc57c57_2_690x356.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/9/29b6332cf814991a2cdae74355e67478bcc57c57_2_690x356.png",
+        "description": "The image shows a quiz interface with instructions, \"Check all\" and \"Save\" buttons, a scoreboard displaying recent saves with scores, and a link to a discussion forum.  The interface also includes a logout button and displays the user's login information."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 591804,
+    "post_number": 22,
+    "author": "carlton",
+    "created_at": "2025-02-07T15:07:24.073Z",
+    "updated_at": "2025-02-07T15:07:24.073Z",
+    "reply_to_post_number": 21,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/22",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Please refer to this post.\n\n\n\n\nTds: assignment is not submitting Tools in Data Science\n\n\n    Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. \nThe scores will only be visible in the dashboard. Just ignore anything inside the seek portal. \nAs stated in multiple places in discourse as well as in live sessions, The final score is always your last submission. \nKind regards\n  \n\n",
+    "images": [
+      "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png",
+        "description": "The image is a photograph of a person's head and shoulders; the individual is wearing glasses and a purple shirt.  No interface elements, questions, scoreboards, diagrams, graphs, or submission portals are visible."
+      }
+    ]
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 592129,
+    "post_number": 23,
+    "author": "Dnyanu27",
+    "created_at": "2025-02-08T12:32:16.079Z",
+    "updated_at": "2025-02-08T12:32:16.079Z",
+    "reply_to_post_number": 20,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/23",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Only 1st Graded assignment scores are visible on dashboard.  I have submitted 2nd and 3rd GA before the deadline but still it showing \u201cnot submitted\u201d on the seek portal\u2026",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 633606,
+    "post_number": 24,
+    "author": "21f3000697",
+    "created_at": "2025-05-31T09:10:55.326Z",
+    "updated_at": "2025-05-31T09:10:55.326Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/24",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "I recently got mail and checked my marks for GA2 and noticed that the final score is showing as 4.25, but while attempting the assignment earlier, I had scored 7.25 shown after submission.\nCould you please help me understand how the marks were reduced? I want to ensure there was no error or misunderstanding in the evaluation.",
+    "images": []
+  },
+  {
+    "topic_id": 166189,
+    "topic_title": "Tds: assignment is not submitting",
+    "category_id": 34,
+    "tags": [
+      "diploma-level",
+      "graded-assignment"
+    ],
+    "post_id": 633608,
+    "post_number": 25,
+    "author": "carlton",
+    "created_at": "2025-05-31T09:14:12.326Z",
+    "updated_at": "2025-05-31T09:14:12.326Z",
+    "reply_to_post_number": 24,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189/25",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "content": "Hi Satish,\nYour last submitted score is the only valid score. You have to check before submitting that the score is correct. There is a reload button to load previous answers. But some answers require a live service. If the live service is not running at the time of the check (when you hit the submit button), you will not be scored for those questions. Please make sure that you have any live services running when the submit button is used and check that the last saved score is correct.\nKind regards",
+    "images": []
+  }
+]

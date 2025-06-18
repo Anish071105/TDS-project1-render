@@ -1,0 +1,154 @@
+[
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 580835,
+    "post_number": 1,
+    "author": "24f2006531",
+    "created_at": "2025-01-17T06:30:48.816Z",
+    "updated_at": "2025-01-17T06:30:48.816Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "Despite saving multiple times, my score keeps resetting to zero. Should I refill the answers for all the questions before saving again? Could this issue also be caused by accessing the assignment from multiple devices?",
+    "images": []
+  },
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 580844,
+    "post_number": 2,
+    "author": "carlton",
+    "created_at": "2025-01-17T06:42:42.190Z",
+    "updated_at": "2025-01-17T06:45:16.630Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "Hi Shalini,\nWe are aware of the issue and @s.anand is working on a solution. The temporary fix is to just reenter all the answers before hitting the Save button. Thanks for the reminder, please bear with the inconvenience while its being fixed.\nThe last submission is always saved. So please make sure that your last submission contains all the answers for all the questions.\nKind regards",
+    "images": []
+  },
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 581451,
+    "post_number": 3,
+    "author": "GaURaVinDeX",
+    "created_at": "2025-01-18T05:02:22.594Z",
+    "updated_at": "2025-01-18T05:02:22.594Z",
+    "reply_to_post_number": 2,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/3",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "Hello,\nI am also facing the same issue. In my last submission the score was 7.25. Right now it is showing 0. The problem is i had few questions remaining to solve and i dont know which ones now. All of them r showing empty in the solution box. Also i didnt write my answers someplace else, so i would have to solve all the questions again? And also if i just for example for testing submit solution of 1 question now then my score would get reduced from 7.25 to the marks of that 1 question i submitted right?",
+    "images": []
+  },
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 581945,
+    "post_number": 4,
+    "author": "shubham6",
+    "created_at": "2025-01-19T08:57:21.832Z",
+    "updated_at": "2025-01-19T10:15:58.162Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/4",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "Saved multiple times on the graded website as well submitted yes on the course tab but the score keeps resetting to 0 with no progress saved",
+    "images": []
+  },
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 581983,
+    "post_number": 7,
+    "author": "s.anand",
+    "created_at": "2025-01-19T12:23:34.273Z",
+    "updated_at": "2025-01-19T12:23:34.273Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/7",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "@24f2006531 @GaURaVinDeX @shubham6\nPlease check this fix. It may solve your problem.\n\n\n\n\nGA1 - Development Tools - Discussion Thread [TDS Jan 2025] Tools in Data Science\n\n\n@23f2005067 @23f2003751 I added a \u201cRecent saves\u201d feature. \nThis will show the time and score for the last 3 times you saved. You can load from any of these. \n [image] \nDo remember to click the \u201cCheck\u201d button to calculate your score. That is not automatic. \nPlease check this out and let me know if there are any bugs. Thanks.\n  \n\n",
+    "images": [
+      "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/48/15264_2.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/48/15264_2.png",
+        "description": "The image is a portrait photograph of a man with short graying hair, wearing glasses, and a dark collared shirt.  The background is a muted reddish-brown."
+      }
+    ]
+  },
+  {
+    "topic_id": 163765,
+    "topic_title": "Score keeps resetting to 0",
+    "category_id": 34,
+    "tags": [
+      "miscellaneous",
+      "tds"
+    ],
+    "post_id": 581989,
+    "post_number": 8,
+    "author": "shubham6",
+    "created_at": "2025-01-19T12:35:22.388Z",
+    "updated_at": "2025-01-19T12:35:22.388Z",
+    "reply_to_post_number": 7,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765/8",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "content": "Much appreciated sir",
+    "images": []
+  }
+]

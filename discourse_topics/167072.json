@@ -1,0 +1,56 @@
+[
+  {
+    "topic_id": 167072,
+    "topic_title": "Sudo permission needed to create data folder in root?",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 594729,
+    "post_number": 1,
+    "author": "vikramjncasr",
+    "created_at": "2025-02-14T03:57:16.864Z",
+    "updated_at": "2025-02-14T03:57:16.864Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072",
+    "content": "@Jivraj @carlton sir please help\nWhen I am downloading the data folder after processing datagen.py , it is trying to download in root folder and it is facing permission error . how can we overcome this ?\nneeds sudo permission all the time\u2026\nimage2100\u00d7216 100 KB",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/5/f51040627e050b955bb243c23f1f660da36b73ae_2_690x70.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/5/f51040627e050b955bb243c23f1f660da36b73ae_2_690x70.png",
+        "description": "The image shows a terminal window displaying the output of an `ls /` command, listing the contents of the root directory, including directories such as `bin`, `boot`, `dev`, `etc`, and others.  The user's current directory is `/mnt/c/IIT_Madras/TDS_Project_1`."
+      }
+    ]
+  },
+  {
+    "topic_id": 167072,
+    "topic_title": "Sudo permission needed to create data folder in root?",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 594766,
+    "post_number": 2,
+    "author": "carlton",
+    "created_at": "2025-02-14T04:53:36.939Z",
+    "updated_at": "2025-02-14T04:54:29.626Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072",
+    "content": "Hi Vikram,\nThis is because (if you watched the session, or examined the code, you would have realised that) datagen.py was designed to run inside your docker container. And datagen.py (or a similar named file which we will not tell you ahead of time and will be provided as the query parameter in task A1) will normally be called by evaluate.py\nInside the docker container, permission for the data folder is set by the Dockerfile\nwhich then allows your application to access the root folder inside your docker image and create the /data folder.\nSo the workflow is like this (for your internal testing only\u2026 please follow the Project page for deliverables and evaluation to submit project successfully):\n\nYou create your application server that serves 2 endpoints on localhost:8000\nYou create a docker image that runs this application server.\nYou run the docker image using podman as described in the project page.\nFor mimicking the testing conditions. You need two files:\nevaluate.py and datagen.py to be in the same folder where you are running these two scripts.\nRun evalute.py using uv.\n\nIf your docker image is correctly configured and your application is correctly configured, then all the tasks run by evaluate.py will correctly tell you if the application is producing the right result for each task.\nHope that gives clarity.\nKind regards",
+    "images": []
+  }
+]

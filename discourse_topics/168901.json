@@ -1,0 +1,148 @@
+[
+  {
+    "topic_id": 168901,
+    "topic_title": "ROE Common Snippets Repo Feb 2025",
+    "category_id": 34,
+    "tags": [
+      "extra-resources",
+      "term1-2025",
+      "tds-roe"
+    ],
+    "post_id": 601917,
+    "post_number": 1,
+    "author": "22f1000120",
+    "created_at": "2025-03-01T21:00:35.056Z",
+    "updated_at": "2025-03-03T11:29:06.617Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "content": "\n\ngithub.com\n\n\n\n\nGitHub - ritwiktrivedi/ROE-Master-Snippets-File\nContribute to ritwiktrivedi/ROE-Master-Snippets-File development by creating an account on GitHub.\n\n\n\n\n\n\nThis is a repo some of us have been working on. It not complete but we are getting there. PRs are appreciated.\nThanks to the course team for giving us this idea of having snippets for common operations.",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/7/4780e9efee3fee9a734598aa75a48693828aadb0_2_690x344.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/7/4780e9efee3fee9a734598aa75a48693828aadb0_2_690x344.png",
+        "description": "The image shows a GitHub repository page for \"ritwiktrivedi/ROE-Master-Snippets-File,\" displaying metrics indicating 4 contributors, 0 issues, 2 stars, and 4 forks.  A profile picture of the repository owner is also visible."
+      }
+    ]
+  },
+  {
+    "topic_id": 168901,
+    "topic_title": "ROE Common Snippets Repo Feb 2025",
+    "category_id": 34,
+    "tags": [
+      "extra-resources",
+      "term1-2025",
+      "tds-roe"
+    ],
+    "post_id": 601922,
+    "post_number": 2,
+    "author": "22f1000120",
+    "created_at": "2025-03-01T21:08:47.201Z",
+    "updated_at": "2025-03-01T21:08:47.201Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "content": "I am too sleepy to work on it now\u2026 So seriously\u2026 PRs are not only appreciated but needed. Just add the basic parsing code or image manipulation for ga5. I will try and add in the morning but who doesn\u2019t like Good PRs? Also mentioning @23f2005325 (Aishik) here for his wonderful PR which I have now merged.",
+    "images": []
+  },
+  {
+    "topic_id": 168901,
+    "topic_title": "ROE Common Snippets Repo Feb 2025",
+    "category_id": 34,
+    "tags": [
+      "extra-resources",
+      "term1-2025",
+      "tds-roe"
+    ],
+    "post_id": 601930,
+    "post_number": 3,
+    "author": "23f2000573",
+    "created_at": "2025-03-01T23:15:51.991Z",
+    "updated_at": "2025-03-01T23:16:59.705Z",
+    "reply_to_post_number": 2,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901/3",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "content": "hi, thanks to you and the other contributors for the effort\ni have added llm week-3 codes through pull request. my code my not be perfect. but when I ran it in my laptop, it worked fine. pls do verify once before ROE",
+    "images": []
+  },
+  {
+    "topic_id": 168901,
+    "topic_title": "ROE Common Snippets Repo Feb 2025",
+    "category_id": 34,
+    "tags": [
+      "extra-resources",
+      "term1-2025",
+      "tds-roe"
+    ],
+    "post_id": 601969,
+    "post_number": 4,
+    "author": "22f1000120",
+    "created_at": "2025-03-02T03:51:09.190Z",
+    "updated_at": "2025-03-02T03:51:09.190Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 1,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901/4",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "content": "image401\u00d7374 21 KB\nThis looks beautiful ",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/4/64c7cdf7626ee50fdc262143cf9484c83a546333.png",
+      "https://emoji.discourse-cdn.com/google/heart.png?v=12"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/4/64c7cdf7626ee50fdc262143cf9484c83a546333.png",
+        "description": "The image shows a source control graphical representation, displaying a timeline of commits with descriptions and author information, including merge pull requests and branch merges.  The interface includes a main branch indicator and colored dots to visually represent different commits."
+      },
+      {
+        "url": "https://emoji.discourse-cdn.com/google/heart.png?v=12",
+        "description": "The image contains a single, cartoon-style red heart on a black background.  No interface elements, questions, scoreboards, diagrams, graphs, or submission portals are visible."
+      }
+    ]
+  },
+  {
+    "topic_id": 168901,
+    "topic_title": "ROE Common Snippets Repo Feb 2025",
+    "category_id": 34,
+    "tags": [
+      "extra-resources",
+      "term1-2025",
+      "tds-roe"
+    ],
+    "post_id": 602335,
+    "post_number": 5,
+    "author": "22f1000120",
+    "created_at": "2025-03-02T11:27:20.581Z",
+    "updated_at": "2025-03-02T11:27:20.581Z",
+    "reply_to_post_number": 4,
+    "is_reply": true,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901/5",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "content": "Failure is part of life. My laptop hanged and despite having all the needed resources I panicked and the exam went the way it went. I take this as a lesson. This resource will be refined further. I thank everyone involved. I am glad that many benefitted and were actually able to score well.",
+    "images": []
+  }
+]

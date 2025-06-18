@@ -1,0 +1,62 @@
+[
+  {
+    "topic_id": 170309,
+    "topic_title": "GA4 bonus marks",
+    "category_id": 34,
+    "tags": [
+      "clarification",
+      "term1-2025",
+      "graded-assignment",
+      "week-4"
+    ],
+    "post_id": 607882,
+    "post_number": 1,
+    "author": "Sakshi6479",
+    "created_at": "2025-03-17T17:58:43.946Z",
+    "updated_at": "2025-03-19T23:18:11.501Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-bonus-marks/170309/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-bonus-marks/170309",
+    "content": "Sir,\nI haven\u2019t received bonus marks in ga4 as, i posted queries in discourse regarding ga4. I have scored 8 marks in ga4, but after bonus marks it should be 9, but in dashboard it is showing only 80 marks.\nKindly, update my marks in dashboard.\n@carlton , @Jivraj , @Saransh_Saini",
+    "images": []
+  },
+  {
+    "topic_id": 170309,
+    "topic_title": "GA4 bonus marks",
+    "category_id": 34,
+    "tags": [
+      "clarification",
+      "term1-2025",
+      "graded-assignment",
+      "week-4"
+    ],
+    "post_id": 607968,
+    "post_number": 2,
+    "author": "carlton",
+    "created_at": "2025-03-18T05:33:25.025Z",
+    "updated_at": "2025-03-18T05:33:25.025Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-bonus-marks/170309/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-bonus-marks/170309",
+    "content": "Hi @Sakshi6479,\nYou have not followed the instruction in GA4 for the bonus mark.\nScreenshot 2025-03-18 at 11.02.31 am2566\u00d7224 23.2 KB\nWe were given the list by Anand for all those that followed this instruction.\nThat is why you have not received the bonus mark for GA4.\nKind regards",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/3205507ea43e03c25e60cdefccf830d9e1a803ed_2_689x60.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/3205507ea43e03c25e60cdefccf830d9e1a803ed_2_689x60.png",
+        "description": "The image contains text describing a bonus mark opportunity for students.  It specifies that participation in a Discourse discussion thread titled \"GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]\" will award one bonus mark."
+      }
+    ]
+  }
+]

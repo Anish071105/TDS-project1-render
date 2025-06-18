@@ -82,31 +82,34 @@ async def get_combined_embedding(question: str, image_b64: Optional[str]) -> Opt
     return await get_text_embedding(question)
 
 # ——— 4) FIND BEST CHUNK ———
-async def find_best_chunk(
+async def find_top_chunks(
     question: str,
     image_b64: Optional[str],
     embeddings: np.ndarray,
-    metadata:   List[Dict]
-) -> Optional[Dict]:
+    metadata: List[Dict],
+    top_k: int = 2
+) -> List[Dict]:
     if embeddings is None or embeddings.size == 0:
-        return None
+        return []
 
     emb = await get_combined_embedding(question, image_b64)
     if emb is None:
-        return None
+        return []
 
     dots  = np.dot(embeddings, emb)
     norms = np.linalg.norm(embeddings, axis=1) * np.linalg.norm(emb)
-    sims  = dots / np.where(norms==0, 1e-9, norms)
+    sims  = dots / np.where(norms == 0, 1e-9, norms)
 
-    idx = int(np.argmax(sims))
-    score = float(sims[idx])
-    if score < 0.3:
-        return None
+    top_indices = np.argsort(sims)[-top_k:][::-1]  # Top K in descending order
+    top_chunks = []
+    for idx in top_indices:
+        if sims[idx] >= 0.3:
+            chunk = metadata[idx].copy()
+            chunk["similarity"] = float(sims[idx])
+            top_chunks.append(chunk)
 
-    chunk = metadata[idx].copy()
-    chunk["similarity"] = score
-    return chunk
+    return top_chunks
+
 
 # ——— 5) GENERATE ANSWER ———
 async def generate_answer(question: str, chunk: Dict) -> str:
@@ -149,15 +152,20 @@ async def api_handler(payload: QueryRequest) -> QueryResponse:
     if not q:
         raise HTTPException(400, "Question is empty")
 
-    best = await find_best_chunk(q, payload.image, embeddings_data, chunks_metadata)
-    if not best:
+    top_chunks = await find_top_chunks(q, payload.image, embeddings_data, chunks_metadata, top_k=2)
+    if not top_chunks:
         return QueryResponse(answer="I don't know.", links=[])
 
-    ans = await generate_answer(q, best)
-    url = best.get("main_url") or best.get("post_url") or ""
-    snippet = best.get("text", "")
-    links = [LinkResponse(url=url, text=snippet)] if url else []
+    ans = await generate_answer(q, top_chunks[0])
+    links = []
+    for chunk in top_chunks:
+        url = chunk.get("main_url") or chunk.get("post_url") or ""
+        snippet = chunk.get("text", "")
+        if url:
+            links.append(LinkResponse(url=url, text=snippet))
+
     return QueryResponse(answer=ans, links=links)
+
 
 @app.get("/")
 async def root():

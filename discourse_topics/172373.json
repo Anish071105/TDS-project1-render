@@ -1,0 +1,56 @@
+[
+  {
+    "topic_id": 172373,
+    "topic_title": "PYQ doubt",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 617911,
+    "post_number": 1,
+    "author": "24f1001616",
+    "created_at": "2025-04-10T14:21:56.393Z",
+    "updated_at": "2025-04-10T14:22:09.793Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373",
+    "content": "image1141\u00d7678 102 KB\n@carlton sir plz review it\ni think the correct answer should be A",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/1/1147fa7bca00db3d2085d116f674364128961293_2_690x410.jpeg"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/1/1147fa7bca00db3d2085d116f674364128961293_2_690x410.jpeg",
+        "description": "The image shows a multiple choice question with four options; each option contains a code snippet that checks if a timestamp corresponds to a Saturday, using different methods from the `datetime` library.  One option is marked as correct."
+      }
+    ]
+  },
+  {
+    "topic_id": 172373,
+    "topic_title": "PYQ doubt",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 617921,
+    "post_number": 2,
+    "author": "carlton",
+    "created_at": "2025-04-10T14:50:28.002Z",
+    "updated_at": "2025-04-10T14:50:28.002Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373",
+    "content": "yes saturday is 5 when using weekday ()",
+    "images": []
+  }
+]

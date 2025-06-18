@@ -1,0 +1,49 @@
+[
+  {
+    "topic_id": 172546,
+    "topic_title": "PYQ Haversine",
+    "category_id": 34,
+    "tags": [
+      "end-term-exam",
+      "previous-quiz"
+    ],
+    "post_id": 618632,
+    "post_number": 1,
+    "author": "Sagan",
+    "created_at": "2025-04-12T12:32:53.702Z",
+    "updated_at": "2025-04-12T12:32:53.702Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-haversine/172546/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-haversine/172546",
+    "content": "Screenshot (883)1920\u00d71080 368 KB\nScreenshot (884)1920\u00d71080 134 KB\nScreenshot (885)1920\u00d71080 315 KB\nScreenshot (886)1920\u00d71080 308 KB\nThis question is in 2024 Dec22: IIT M FN EXAM QDD2\nCan anyone tell how to solve this?",
+    "images": [
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/c/ec056436956f57e59ec82e28ba057bcac702e5b9_2_690x388.png",
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/b/bbcfe87fc66baeed2b84b5fa886be843839c8f04_2_690x388.jpeg",
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/2/12e0850750ac2455a741c15bc7af8afb42e74fb8_2_690x388.png",
+      "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/b/dbc48b38657ebbba8ddaf78f346cba73b1d9b032_2_690x388.png"
+    ],
+    "image_descriptions": [
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/c/ec056436956f57e59ec82e28ba057bcac702e5b9_2_690x388.png",
+        "description": "The image shows a quiz interface with a question menu displaying 40 questions, a scoreboard indicating a total of 40 marks for an end-term quiz on TDS, and a question presenting a student-ChatGPT discussion about using the Haversine formula to calculate distance."
+      },
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/b/bbcfe87fc66baeed2b84b5fa886be843839c8f04_2_690x388.jpeg",
+        "description": "The image shows a screenshot of a quiz practice website displaying a multiple-choice question about the Haversine formula, along with a student's response and a question menu showing a total of 40 questions.  The interface includes a question submission portal and a scoreboard indicating the total marks available."
+      },
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/2/12e0850750ac2455a741c15bc7af8afb42e74fb8_2_690x388.png",
+        "description": "The image shows a quiz practice interface with a multiple-choice question requiring calculation of distance using the Haversine formula; a question menu displays a total of 40 questions, with question 19 currently selected."
+      },
+      {
+        "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/b/dbc48b38657ebbba8ddaf78f346cba73b1d9b032_2_690x388.png",
+        "description": "The image shows a quiz interface with a multiple-choice question about finding the nearest hospital based on latitude and longitude coordinates; a question menu displays a list of questions 1-40, with question 20 highlighted."
+      }
+    ]
+  }
+]

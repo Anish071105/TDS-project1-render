@@ -1,0 +1,48 @@
+[
+  {
+    "topic_id": 165593,
+    "topic_title": "Live sessions regarding Project 1",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 587117,
+    "post_number": 1,
+    "author": "23f2000237",
+    "created_at": "2025-01-28T09:06:27.833Z",
+    "updated_at": "2025-01-28T09:06:27.833Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593/1",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593",
+    "content": "In the discussion Thread for Project 1, it was said that there will be live sessions conducted for the project, however, there hasn\u2019t been one specifically for it.\nIf there are live sessions that will be conducted, can we have some hands on tutorial for the project ?",
+    "images": []
+  },
+  {
+    "topic_id": 165593,
+    "topic_title": "Live sessions regarding Project 1",
+    "category_id": 34,
+    "tags": [
+      "clarification"
+    ],
+    "post_id": 587124,
+    "post_number": 2,
+    "author": "carlton",
+    "created_at": "2025-01-28T09:16:36.117Z",
+    "updated_at": "2025-01-28T09:16:36.117Z",
+    "reply_to_post_number": null,
+    "is_reply": false,
+    "reply_count": 0,
+    "like_count": 0,
+    "is_accepted_answer": false,
+    "mentioned_users": [],
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593/2",
+    "main_thread_url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593",
+    "content": "Hi Sakthivel,\nWe are still covering the precursors for Project. Once we cover the required topics then we will have sessions that work through the project with the students.\nKind regards",
+    "images": []
+  }
+]
