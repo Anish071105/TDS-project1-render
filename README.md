@@ -3,7 +3,7 @@
 A Virtual Teaching Assistant that automatically answers student queries based on **course content** and **Discourse forum discussions** for the **Tools in Data Science (TDS)** course, **Jan 2025 batch**.
 
 🔗 **Live API**: [https://tds-project1-render.onrender.com/api/](https://tds-project1-render.onrender.com/api/)  
-📁 **GitHub Repo**: [github.com/Anish071105/TDS-project1-render](https://github.com/Anish071105/TDS-project1-render)
+📁 **GitHub Repo**: [github.com/Anish071105/TDS-project1-render](https://github.com/Anish071105/TDS-project1-render)(The link is working perfectly if it doesnt start till me I will restart the server again)
 
 ---
 
