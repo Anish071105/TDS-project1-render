@@ -6,6 +6,7 @@ import numpy as np
 from pathlib import Path
 from typing import List, Dict, Optional
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import openai
 
@@ -19,6 +20,14 @@ GENERATION_MODEL_NAME = "gpt-3.5-turbo"
 EMBEDDING_FILE        = "embedding.npz"
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class QueryRequest(BaseModel):
     question: str
